@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "Get music!",
+  "base_artist": "蓮城寺べる（CV.戸松遥）",
+  "createdAt": "2026-02-25T08:41:17.038423Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Quiero (feat. Go Get Music)",
+      "artist": "Los G4 feat. J Abdiel, Sahir & Go Get Music",
+      "has_synced": true,
+      "path": "select/01_Quiero_(feat._Go_Get_Music)_Los_G4_feat._J_Abdiel,_Sahir_&_Go_Get_Music.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Quiero (feat. Go Get Music)",
+      "artist": "Los G4, J Abdiel, Sahir",
+      "has_synced": true,
+      "path": "select/02_Quiero_(feat._Go_Get_Music)_Los_G4,_J_Abdiel,_Sahir.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "6B (feat. Go Get Music)",
+      "artist": "Los G4 feat. Young Miko, Jovaan & Go Get Music",
+      "has_synced": true,
+      "path": "select/03_6B_(feat._Go_Get_Music)_Los_G4_feat._Young_Miko,_Jovaan_&_Go_Get_Music.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Máquina (feat. Go Get Music)",
+      "artist": "Los G4 feat. Darell, Ankhal & Go Get Music",
+      "has_synced": true,
+      "path": "select/04_Máquina_(feat._Go_Get_Music)_Los_G4_feat._Darell,_Ankhal_&_Go_Get_Music.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "6B (feat. Go Get Music)",
+      "artist": "Los G4/Young Miko/Jovaan/Go Get Music",
+      "has_synced": true,
+      "path": "select/05_6B_(feat._Go_Get_Music)_Los_G4_Young_Miko_Jovaan_Go_Get_Music.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Máquina (feat. Go Get Music)",
+      "artist": "Los G4/Darell/Ankhal/Go Get Music",
+      "has_synced": true,
+      "path": "select/06_Máquina_(feat._Go_Get_Music)_Los_G4_Darell_Ankhal_Go_Get_Music.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Brillando (feat. Go Get Music)",
+      "artist": "Los G4 feat. K John, Jey G & Go Get Music",
+      "has_synced": true,
+      "path": "select/07_Brillando_(feat._Go_Get_Music)_Los_G4_feat._K_John,_Jey_G_&_Go_Get_Music.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Brillando (feat. Go Get Music)",
+      "artist": "Los G4/K John/Jey G/Go Get Music",
+      "has_synced": true,
+      "path": "select/08_Brillando_(feat._Go_Get_Music)_Los_G4_K_John_Jey_G_Go_Get_Music.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Get music!",
+      "artist": "蓮城寺べる（CV.戸松遥）",
+      "has_synced": true,
+      "path": "select/09_Get_music!_蓮城寺べる(CV.戸松遥).lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Máquina (con Go Get Music)",
+      "artist": "Ankhal",
+      "has_synced": true,
+      "path": "select/10_Máquina_(con_Go_Get_Music)_Ankhal.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "6B (feat. Go Get Music)",
+      "artist": "Los G4",
+      "has_synced": true,
+      "path": "select/11_6B_(feat._Go_Get_Music)_Los_G4.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "6B (feat. Go Get Music)",
+      "artist": "Los G4",
+      "has_synced": true,
+      "path": "select/12_6B_(feat._Go_Get_Music)_Los_G4.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Quiero (feat. Go Get Music)",
+      "artist": "Los G4",
+      "has_synced": true,
+      "path": "select/13_Quiero_(feat._Go_Get_Music)_Los_G4.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Sustancias (feat. Go Get Music)",
+      "artist": "Los G4",
+      "has_synced": true,
+      "path": "select/14_Sustancias_(feat._Go_Get_Music)_Los_G4.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Sustancias (feat. Go Get Music)",
+      "artist": "Los G4, De La Rose, & ILLEY",
+      "has_synced": true,
+      "path": "select/15_Sustancias_(feat._Go_Get_Music)_Los_G4,_De_La_Rose,_&_ILLEY.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Como lo Hacemos (feat. Go Get Music)",
+      "artist": "Los G4",
+      "has_synced": true,
+      "path": "select/16_Como_lo_Hacemos_(feat._Go_Get_Music)_Los_G4.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Primero Dios (feat. Go Get Music, Felo Blonck, Galindo)",
+      "artist": "Los G4",
+      "has_synced": true,
+      "path": "select/17_Primero_Dios_(feat._Go_Get_Music,_Felo_Blonck,_Galindo)_Los_G4.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Máquina (feat. Go Get Music)",
+      "artist": "Los G4",
+      "has_synced": true,
+      "path": "select/18_Máquina_(feat._Go_Get_Music)_Los_G4.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Get music!",
+      "artist": "蓮城寺べる(CV.戸松遥)",
+      "has_synced": false,
+      "path": "select/pl_01_Get_music!_蓮城寺べる(CV.戸松遥).txt"
+    }
+  ]
+}
